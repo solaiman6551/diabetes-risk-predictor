@@ -3,3 +3,4 @@ venv/
 __pycache__/
 *.pyc
 *.pkl
+notebooks/.ipynb_checkpoints/
